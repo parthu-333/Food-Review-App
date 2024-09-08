@@ -1,1 +1,1 @@
-# Food-Review-App
+# FoodReviewApp
